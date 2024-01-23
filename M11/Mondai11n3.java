@@ -1,5 +1,15 @@
 package M11;
 
+class FA {
+    static int x;
+    static int y;
+    FA(int x, int y) {this.x = x; this.y = y;}
+    void setX(int x) {this.x = x;}
+    void setY(int y) {this.y = y;}
+    int getX() { return x; }
+    int getY() { return y; }
+}
+
 public class Mondai11n3 {
     public static void main(String[] args) {
         int x =100;
