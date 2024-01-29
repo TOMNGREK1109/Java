@@ -55,21 +55,18 @@ public class M12_1 {
         Scanner stdIn = new Scanner(System.in);
 
         // メインクラスの生成とメイン処理実行
-		class mein{
-
-        }
-
+        
         // 拡張電卓インスタンス生成
-		//(__x__)
+		(__x__)
 
     	// 合計値
-		//(__x__)
+		(__x__)
 
 		// 平均値
-   // 	(__x__)
+    	(__x__)
 
     	// 累乗
-//		(__x__)
+		(__x__)
 
       stdIn.close();
     }
