@@ -1,4 +1,4 @@
-package kadaifail;
+package kadaifail.crass;
 
 public class name {
     
